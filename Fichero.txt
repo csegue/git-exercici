@@ -1,2 +1,7 @@
 Fichero de texto para subir
+
  - modificado desde master
+
+ - modificado desde branch1
+
+ - Selecciono según el conflicto de merge
